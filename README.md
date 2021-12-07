@@ -1,9 +1,9 @@
 # Simple-Parser, Простой парсер
 
 #### Входные данные или что парсим
-1. Данные о колледжах со страницы: https://www.princetonreview.com/college-search?ceid=cp-1022984
+1. Данные о колледжах со страницы: https://www.princetonreview.com/college-search?ceid=cp-1022984  
 Формат: Ссылка на картинку | Название Колледжа | Город | Штат
-3. Данные о колледже со страницы: https://www.princetonreview.com/college/harvard-college-1022984?ceid=cp-1022984
+3. Данные о колледже со страницы: https://www.princetonreview.com/college/harvard-college-1022984?ceid=cp-1022984  
 Формат: Название Колледжа | Адрес | Телефон | Сайт
 
 #### Выходные данные
