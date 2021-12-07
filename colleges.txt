@@ -1,0 +1,23 @@
+Ссылка на картинку                                                                        Название Колледжа                                 Город                Штат
+//cdn.princetonreview.com/images/photos/821_harvard_1.gif                                 Harvard College                                   Cambridge            MA  
+//cdn.princetonreview.com/images/photos/357_cornell_logo.gif                              Cornell University                                Ithaca               NY  
+//cdn.princetonreview.com/images/photos/138_brown_1.gif                                   Brown University                                  Providence           RI  
+//az589735.vo.msecnd.net/images/profilepics/1022976/1.jpg                                 New York University                               New York             NY  
+//cdn.princetonreview.com/images/photos/353_stanford_4.jpg                                Stanford University                               Stanford             CA  
+//az589735.vo.msecnd.net/images/profilepics/1024041/1.jpg                                 Princeton University                              Princeton            NJ  
+//cdn.princetonreview.com/images/photos/120_bostoncollege_7.gif                           Boston College                                    Chestnut Hill        MA  
+//cdn.princetonreview.com/images/photos/213_yale_4.gif                                    Yale University                                   New Haven            CT  
+//cdn.princetonreview.com/images/photos/555_duke_4.gif                                    Duke University                                   Durham               NC  
+//cdn.princetonreview.com/images/photos/111_syracuse_5.jpg                                Syracuse University                               Syracuse             NY  
+//cdn.princetonreview.com/images/photos/609_ucberkeley.jpg                                University of California--Berkeley                Berkeley             CA  
+//cdn.princetonreview.com/images/photos/971_uva_image.jpg                                 University of Virginia                            Charlottesville      VA  
+//cdn.princetonreview.com/images/photos/648_1.jpg                                         University of Southern California                 Los Angeles          CA  
+//cdn.princetonreview.com/images/photos/995_polk_place_spring_4_.jpg                      University of North Carolina at Chapel Hill       Chapel Hill          NC  
+//cdn.princetonreview.com/images/photos/678_georgetown.jpg                                Georgetown University                             Washington           DC  
+//cdn.princetonreview.com/images/photos/49_elms1new.jpg                                   Penn State University Park                        University Park      PA  
+//cdn.princetonreview.com/images/photos/1023373/20070416144212_pauley_panoramic.jpg       University of California--Los Angeles             Los Angeles          CA  
+                                                                                          Columbia University                               New York             NY  
+//az589735.vo.msecnd.net/images/profilepics/1023900/201.jpg                               Boston University                                 Boston               MA  
+//az589735.vo.msecnd.net/images/profilepics/1022889/30.jpg                                Clemson University                                Clemson              SC  
+//az589735.vo.msecnd.net/images/profilepics/1022817/301.jpg                               Vanderbilt University                             Nashville            TN  
+//az589735.vo.msecnd.net/images/profilepics/1022996/1.jpg                                 Northeastern University                           Boston               MA  
